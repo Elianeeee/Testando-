@@ -1,6 +1,6 @@
-k = float('Constante elástica da mola:20')
-x = float(input('Extensão da mola: 30'))
-m = float(input('Massa do corpo: 50'))
+k = float(input("20"))
+x = float(input("30"))
+m = float(input("25"))
 F = k * x
 a = F/m
-print(f'Aceleração do corpo: {a}')
+print(f'Aceleração do corpo: {a}"")
